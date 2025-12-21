@@ -26,4 +26,4 @@ jobs:
       - name: Run tests
         run: |
           node cc-mod.js http://minearm.org cc.txt 7200 GET
-          node cc-mod.js https://zhiyuhub.top cc.txt 9000 GET
+          node cc-mod.js https://159.75.109.133:443 cc.txt 10600 GET
